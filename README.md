@@ -1,7 +1,7 @@
-# staticproject
-This is my final static website for future ready talent
+# Future ready Talent Serch project by Aditya Sabde
+Herer I completed project which have name as CleanFreshly which is very helpful for peoples who wants to contact with persons for cleaning purpose or some reapairing purposes, it will bw very helpfull for customer as well as service provider
 
-Azure link :-  https://blue-pebble-0a9c1f810.1.azurestaticapps.net/
+# Azure link :-  https://blue-pebble-0a9c1f810.1.azurestaticapps.net/
 
 # Home page
 
