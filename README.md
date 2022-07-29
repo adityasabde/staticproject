@@ -13,6 +13,16 @@ Herer I completed project which have name as CleanFreshly which is very helpful 
 
 ![Screenshot (243)](https://user-images.githubusercontent.com/84443116/181767497-4ef23090-3581-4852-b1b8-54b9c3c377d9.png)
 
+![Screenshot (241)](https://user-images.githubusercontent.com/84443116/181773913-4355c8e1-78b2-4d0b-9be6-7f89e2ba2fd7.png)
+
+
 # Services page
 
 ![Screenshot (244)](https://user-images.githubusercontent.com/84443116/181767589-f83041da-a9c9-4cfc-9bb2-beebaf2f715f.png)
+
+![Screenshot (242)](https://user-images.githubusercontent.com/84443116/181773997-93e2c09d-4824-452f-b07f-bf016234d34a.png)
+
+
+# azure portal
+
+![Screenshot (245)](https://user-images.githubusercontent.com/84443116/181773821-fa84f23b-8ffd-4a86-bda7-51bf45e5dc0b.png)
